@@ -1,9 +1,7 @@
 ## Olá! Eu sou o Rafael Takashi ✌️
 </br>
 
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_takashinho_)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-takashi-841ba8247/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-takashi-iwata-689799283/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTakashiI&show_icons=true&theme=tokyonight)
