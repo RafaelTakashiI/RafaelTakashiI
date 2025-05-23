@@ -74,8 +74,4 @@
 
 ---
 
-### 🐍 Snake Contribution
-
-![Snake animation](https://github.com/RafaelTakashiI/RafaelTakashiI/blob/output/github-contribution-grid-snake.svg)
-
 
